@@ -1,0 +1,7 @@
+speed\_project.greet.greet module
+=================================
+
+.. automodule:: speed_project.greet.greet
+   :members:
+   :undoc-members:
+   :show-inheritance:
