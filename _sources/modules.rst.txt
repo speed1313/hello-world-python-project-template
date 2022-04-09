@@ -1,7 +1,7 @@
-project_name
-============
+speed_project
+=============
 
 .. toctree::
    :maxdepth: 4
 
-   project_name
+   speed_project
