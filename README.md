@@ -1,4 +1,4 @@
-# project_name
+# speed_project
 
 This is a template repository for Python project.
 
@@ -8,8 +8,8 @@ Refer to a following documentation:
 - ja: https://docs.github.com/ja/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
 
 Then rename following stuffs:
-* `project_name` in all files -> Your new project name
-* `project_name` directory -> Your new project name
+* `speed_project` in all files -> Your new project name
+* `speed_project` directory -> Your new project name
 * `python-project-template` -> Your new GitHub repository name
 
 In this repository, `Python 3.9` is specified as the default Python version to use.
