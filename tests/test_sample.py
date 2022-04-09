@@ -6,4 +6,4 @@ def test_sample() -> None:
 
 
 def test_hello() -> None:
-    assert hello.hello() is None
+    assert hello() is None
